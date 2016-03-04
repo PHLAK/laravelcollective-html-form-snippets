@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+{!! Form::checkbox(${1:\$name}, ${2:\$value}, [${3}]) !!}
+]]></content>
+    <tabTrigger>formcheckbox</tabTrigger>
+    <scope>text.blade</scope>
+</snippet>

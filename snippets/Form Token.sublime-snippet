@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+{!! Form::token(${1}) !!}
+]]></content>
+    <tabTrigger>formtoken</tabTrigger>
+    <scope>text.blade</scope>
+</snippet>
