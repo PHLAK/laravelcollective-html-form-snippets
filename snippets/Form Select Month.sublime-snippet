@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+{!! Form::selectMonth(${1:\$name}, [${2}]) !!}
+]]></content>
+    <tabTrigger>formselectmonth</tabTrigger>
+    <scope>text.blade</scope>
+</snippet>

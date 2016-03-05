@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+{!! Form::selectRange(${1:\$name}, ${2:\$min}, ${3:\$max}), [${4}] !!}
+]]></content>
+    <tabTrigger>formselectrange</tabTrigger>
+    <scope>text.blade</scope>
+</snippet>
