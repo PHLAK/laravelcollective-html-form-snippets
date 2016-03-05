@@ -20,7 +20,7 @@ Installation instructions coming soon...
 Usage
 -----
 
-To use these snippets, type the trigger text followd by `Tab`.
+To use these snippets, type the trigger text followed by the `Tab` key.
 
 | Trigger Text      | Output                                                  |
 | ----------------- | ------------------------------------------------------- |
