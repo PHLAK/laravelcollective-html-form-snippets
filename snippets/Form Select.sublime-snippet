@@ -2,6 +2,6 @@
     <content><![CDATA[
 {!! Form::select(${1:\$name}, ${2:\$optionsArray}, [${3}]) !!}
 ]]></content>
-    <tabTrigger>form</tabTrigger>
+    <tabTrigger>formselect</tabTrigger>
     <scope>text.blade</scope>
 </snippet>
