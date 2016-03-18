@@ -5,16 +5,18 @@ Sublime Text 3 snippets for [LaravelCollective/html](https://github.com/LaravelC
 form elements.
 
 
-Prerequisites
--------------
-
-  - [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
-
-
 Installation
 ------------
 
-Installation instructions coming soon...
+### With Package Control:
+
+Search for `LaravelColective/html Form Snippets`
+
+### With Git:
+
+Clone the repository in your Sublime Text "Packages" directory:
+
+    git clone git@github.com:PHLAK/laravelcollective-html-form-snippets.git
 
 
 Usage
