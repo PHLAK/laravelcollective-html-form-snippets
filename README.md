@@ -10,7 +10,7 @@ Installation
 
 ### With Package Control:
 
-Search for `LaravelColective/html Form Snippets`
+Search for `LaravelCollective/html Form Snippets`
 
 ### With Git:
 
