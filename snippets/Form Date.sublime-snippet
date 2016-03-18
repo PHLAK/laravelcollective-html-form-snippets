@@ -3,5 +3,5 @@
 {!! Form::date(${1:\$name}, ${2:\Carbon\Carbon\::now()}, [${3}]) !!}
 ]]></content>
     <tabTrigger>formdate</tabTrigger>
-    <scope>text.blade</scope>
+    <scope>text.html</scope>
 </snippet>

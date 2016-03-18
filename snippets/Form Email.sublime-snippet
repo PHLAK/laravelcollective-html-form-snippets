@@ -3,5 +3,5 @@
 {!! Form::email(${1:\$name}, ${2:\$value}, [${3}]) !!}
 ]]></content>
     <tabTrigger>formemail</tabTrigger>
-    <scope>text.blade</scope>
+    <scope>text.html</scope>
 </snippet>

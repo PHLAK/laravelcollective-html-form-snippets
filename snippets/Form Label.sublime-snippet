@@ -3,5 +3,5 @@
 {!! Form::label(${1:\$for}, ${2:\$text}, [${3}]) !!}
 ]]></content>
     <tabTrigger>formlabel</tabTrigger>
-    <scope>text.blade</scope>
+    <scope>text.html</scope>
 </snippet>

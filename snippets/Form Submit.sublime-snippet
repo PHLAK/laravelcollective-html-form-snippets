@@ -3,5 +3,5 @@
 {!! Form::submit(${1:\$text}, [${2}]) !!}
 ]]></content>
     <tabTrigger>formsubmit</tabTrigger>
-    <scope>text.blade</scope>
+    <scope>text.html</scope>
 </snippet>

@@ -3,5 +3,5 @@
 {!! Form::close(${1}) !!}
 ]]></content>
     <tabTrigger>formclose</tabTrigger>
-    <scope>text.blade</scope>
+    <scope>text.html</scope>
 </snippet>

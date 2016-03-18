@@ -3,5 +3,5 @@
 {!! Form::number(${1:\$name}, ${2:\$value}, [${3}]) !!}
 ]]></content>
     <tabTrigger>formnumber</tabTrigger>
-    <scope>text.blade</scope>
+    <scope>text.html</scope>
 </snippet>

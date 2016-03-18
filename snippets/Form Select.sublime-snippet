@@ -3,5 +3,5 @@
 {!! Form::select(${1:\$name}, ${2:\$optionsArray}, [${3}]) !!}
 ]]></content>
     <tabTrigger>formselect</tabTrigger>
-    <scope>text.blade</scope>
+    <scope>text.html</scope>
 </snippet>

@@ -3,5 +3,5 @@
 {!! Form::text(${1:\$name}, ${2:\$value}, [${3}]) !!}
 ]]></content>
     <tabTrigger>formtext</tabTrigger>
-    <scope>text.blade</scope>
+    <scope>text.html</scope>
 </snippet>
