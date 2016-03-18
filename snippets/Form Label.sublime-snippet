@@ -4,4 +4,5 @@
 ]]></content>
     <tabTrigger>formlabel</tabTrigger>
     <scope>text.html</scope>
+    <description>{!! Form::label() !!}</description>
 </snippet>

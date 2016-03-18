@@ -4,4 +4,5 @@
 ]]></content>
     <tabTrigger>formclose</tabTrigger>
     <scope>text.html</scope>
+    <description>{!! Form::close() !!}</description>
 </snippet>

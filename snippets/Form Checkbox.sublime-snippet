@@ -4,4 +4,5 @@
 ]]></content>
     <tabTrigger>formcheckbox</tabTrigger>
     <scope>text.html</scope>
+    <description>{!! Form::checkbox() !!}</description>
 </snippet>

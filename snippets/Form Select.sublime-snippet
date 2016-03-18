@@ -4,4 +4,5 @@
 ]]></content>
     <tabTrigger>formselect</tabTrigger>
     <scope>text.html</scope>
+    <description>{!! Form::select() !!}</description>
 </snippet>

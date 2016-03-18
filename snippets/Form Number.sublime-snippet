@@ -4,4 +4,5 @@
 ]]></content>
     <tabTrigger>formnumber</tabTrigger>
     <scope>text.html</scope>
+    <description>{!! Form::number() !!}</description>
 </snippet>
