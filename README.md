@@ -22,27 +22,27 @@ Usage
 
 To use these snippets, type the trigger text followed by the `Tab` key.
 
-| Trigger Text      | Output                                                  |
-| ----------------- | ------------------------------------------------------- |
-| `formopen`        | `{!! Form::open() !!}`                                  |
-| `formclose`       | `{!! Form::close() !!}`                                 |
-| `formtoken`       | `{!! Form::token() !!}`                                 |
-| `formmodel`       | `{!! Form::model($user, []) !!}`                        |
-| `formlabel`       | `{!! Form::label($for, $text, []) !!}`                  |
-| `formtext`        | `{!! Form::text($name, $value, []) !!}`                 |
-| `formtextarea`    | `{!! Form::textarea($name, $value, []) !!}`             |
-| `formpassword`    | `{!! Form::password($name, []) !!}`                     |
-| `formhidden`      | `{!! Form::hidden($name, $value, []) !!}`               |
-| `formemail`       | `{!! Form::email($name, $value, []) !!}`                |
-| `formfile`        | `{!! Form::file($name, []) !!}`                         |
-| `formcheckbox`    | `{!! Form::checkbox($name, $value, $checked, []) !!}`   |
-| `formradio`       | `{!! Form::radio($name, $value, $checked, []) !!}`      |
-| `formnumber`      | `{!! Form::number($name, $value, []) !!}`               |
-| `formdate`        | `{!! Form::date($name, \Carbon\Carbon\::now(), []) !!}` |
-| `formselect`      | `{!! Form::select($name, $optionsArray, []) !!}`        |
-| `formselectrange` | `{!! Form::selectRange($name, $min, $max), [] !!}`      |
-| `formselectmonth` | `{!! Form::selectMonth($name, []) !!}`                  |
-| `formsubmit`      | `{!! Form::submit($text, []) !!}`                       |
+| Trigger Text      | Output                                                        |
+| ----------------- | ------------------------------------------------------------- |
+| `formopen`        | `{!! Form::open() !!}`                                        |
+| `formclose`       | `{!! Form::close() !!}`                                       |
+| `formtoken`       | `{!! Form::token() !!}`                                       |
+| `formmodel`       | `{!! Form::model($user, []) !!}`                              |
+| `formlabel`       | `{!! Form::label($for, $text, []) !!}`                        |
+| `formtext`        | `{!! Form::text($name, $value, []) !!}`                       |
+| `formtextarea`    | `{!! Form::textarea($name, $value, []) !!}`                   |
+| `formpassword`    | `{!! Form::password($name, []) !!}`                           |
+| `formhidden`      | `{!! Form::hidden($name, $value, []) !!}`                     |
+| `formemail`       | `{!! Form::email($name, $value, []) !!}`                      |
+| `formfile`        | `{!! Form::file($name, []) !!}`                               |
+| `formcheckbox`    | `{!! Form::checkbox($name, $value, $checked, []) !!}`         |
+| `formradio`       | `{!! Form::radio($name, $value, $checked, []) !!}`            |
+| `formnumber`      | `{!! Form::number($name, $value, []) !!}`                     |
+| `formdate`        | `{!! Form::date($name, \Carbon\Carbon\::now(), []) !!}`       |
+| `formselect`      | `{!! Form::select($name, $optionsArray, $defaultKey, []) !!}` |
+| `formselectrange` | `{!! Form::selectRange($name, $min, $max), [] !!}`            |
+| `formselectmonth` | `{!! Form::selectMonth($name, []) !!}`                        |
+| `formsubmit`      | `{!! Form::submit($text, []) !!}`                             |
 
 
 Contributing
