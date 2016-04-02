@@ -1,4 +1,4 @@
-LaravelCollective/html Form Snippets
+LaravelCollective HTML Form Snippets
 ====================================
 
 Sublime Text 3 snippets for [LaravelCollective/html](https://github.com/LaravelCollective/html)
