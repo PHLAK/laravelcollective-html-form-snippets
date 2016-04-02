@@ -10,11 +10,12 @@ Installation
 
 ### With Package Control:
 
-Search for `LaravelCollective/html Form Snippets`
+Search for `LaravelCollective HTML Form Snippets`
 
 ### With Git:
 
-Clone the repository in your Sublime Text "Packages" directory:
+Clone the repository in your Sublime Text "Packages" directory
+(~/.config/sublime-text-3/Packages on Linux):
 
     git clone git@github.com:PHLAK/laravelcollective-html-form-snippets.git
 
@@ -50,7 +51,7 @@ To use these snippets, type the trigger text followed by the `Tab` key.
 Contributing
 ------------
 
-  1. [Fork this repo](https://github.com/PHLAK/laravelcollective-html-form-snippets#fork-destination-box)
+  1. Fork [this repo](https://github.com/PHLAK/laravelcollective-html-form-snippets)
   2. Make your changes
   3. [Submit Pull Request](https://github.com/PHLAK/laravelcollective-html-form-snippets/pull/new)
 
