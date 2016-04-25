@@ -8,11 +8,13 @@ form elements.
 Installation
 ------------
 
-### With Package Control:
+##### With Package Control:
 
-Search for `LaravelCollective HTML Form Snippets`
+  1. In Sublime Text press `Ctrl` + `Shift` + `P` to open the command pallet
+  2. Search for `Package Control: Install Package` and press `Enter`
+  3. In the package list search for `LaravelCollective HTML Form Snippets` and press `Enter` to install
 
-### With Git:
+##### With Git:
 
 Clone the repository in your Sublime Text "Packages" directory
 (~/.config/sublime-text-3/Packages on Linux):
