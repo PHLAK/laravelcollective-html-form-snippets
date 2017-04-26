@@ -4,6 +4,8 @@ LaravelCollective HTML Form Snippets
 Sublime Text 3 snippets for [LaravelCollective/html](https://github.com/LaravelCollective/html)
 form elements.
 
+Like this project? Keep me caffeinated by [making a donation](https://paypal.me/ChrisKankiewicz).
+
 
 Installation
 ------------
@@ -67,4 +69,4 @@ Please report bugs to the [GitHub Issue Tracker](https://github.com/PHLAK/larave
 Copyright
 ---------
 
-This project is liscensed under the [MIT License](https://github.com/PHLAK/laravelcollective-html-form-snippets/blob/master/LICENSE).
+This project is licensed under the [MIT License](https://github.com/PHLAK/laravelcollective-html-form-snippets/blob/master/LICENSE).
