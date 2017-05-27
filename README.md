@@ -4,9 +4,12 @@ LaravelCollective HTML Form Snippets
 Sublime Text 3 snippets for [LaravelCollective/html](https://github.com/LaravelCollective/html)
 form elements.
 
+<<<<<<< HEAD
 Like this project? Keep me caffeinated by [making a donation](https://paypal.me/ChrisKankiewicz).
 
 
+=======
+>>>>>>> Removed extra blank lines from README
 Installation
 ------------
 
@@ -22,7 +25,6 @@ Clone the repository in your Sublime Text "Packages" directory
 (~/.config/sublime-text-3/Packages on Linux):
 
     git clone git@github.com:PHLAK/laravelcollective-html-form-snippets.git
-
 
 Usage
 -----
@@ -51,7 +53,6 @@ To use these snippets, type the trigger text followed by the `Tab` key.
 | `formselectmonth` | `{!! Form::selectMonth($name, []) !!}`                        |
 | `formsubmit`      | `{!! Form::submit($text, []) !!}`                             |
 
-
 Contributing
 ------------
 
@@ -64,7 +65,6 @@ Troubleshooting
 ---------------
 
 Please report bugs to the [GitHub Issue Tracker](https://github.com/PHLAK/laravelcollective-html-form-snippets/issues).
-
 
 Copyright
 ---------
