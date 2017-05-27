@@ -4,12 +4,8 @@ LaravelCollective HTML Form Snippets
 Sublime Text 3 snippets for [LaravelCollective/html](https://github.com/LaravelCollective/html)
 form elements.
 
-<<<<<<< HEAD
 Like this project? Keep me caffeinated by [making a donation](https://paypal.me/ChrisKankiewicz).
 
-
-=======
->>>>>>> Removed extra blank lines from README
 Installation
 ------------
 
