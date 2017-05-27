@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------
+
+             Thanks for installing LaravelCollective Form Snippets!
+
+          Like this project? Keep me caffeinated by making a donation.
+
+                       https://paypal.me/ChrisKankiewicz
+
+--------------------------------------------------------------------------------
+
+   Hopefully everything will work properly for you, but if you experience any
+           issues please report them on the GitHub Issue Tracker:
+
+      https://github.com/PHLAK/laravelcollective-html-form-snippets/issues
+
+--------------------------------------------------------------------------------
