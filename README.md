@@ -60,6 +60,10 @@ Contributing
   2. Make your changes
   3. [Submit Pull Request](https://github.com/PHLAK/laravelcollective-html-form-snippets/pull/new)
 
+Changelog
+---------
+
+A list of changes can be found on the [GitHub Releases](https://github.com/PHLAK/laravelcollective-html-form-snippets/releases) page.
 
 Troubleshooting
 ---------------
