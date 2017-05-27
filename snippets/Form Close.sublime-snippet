@@ -3,6 +3,6 @@
 {!! Form::close(${1}) !!}
 ]]></content>
     <tabTrigger>formclose</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade, text.html</scope>
     <description>{!! Form::close() !!}</description>
 </snippet>

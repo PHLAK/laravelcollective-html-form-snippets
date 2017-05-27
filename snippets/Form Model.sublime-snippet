@@ -3,6 +3,6 @@
 {!! Form::model(${1:\$user}, [${2}]) !!}
 ]]></content>
     <tabTrigger>formmodel</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade, text.html</scope>
     <description>{!! Form::model() !!}</description>
 </snippet>

@@ -3,6 +3,6 @@
 {!! Form::select(${1:\$name}, ${2:\$optionsArray}, ${3:\$defaultKey}, [${4}]) !!}
 ]]></content>
     <tabTrigger>formselect</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade, text.html</scope>
     <description>{!! Form::select() !!}</description>
 </snippet>

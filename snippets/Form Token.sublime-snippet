@@ -3,6 +3,6 @@
 {!! Form::token(${1}) !!}
 ]]></content>
     <tabTrigger>formtoken</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade, text.html</scope>
     <description>{!! Form::token() !!}</description>
 </snippet>

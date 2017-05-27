@@ -3,6 +3,6 @@
 {!! Form::selectMonth(${1:\$name}, [${2}]) !!}
 ]]></content>
     <tabTrigger>formselectmonth</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade, text.html</scope>
     <description>{!! Form::selectMonth() !!}</description>
 </snippet>

@@ -3,6 +3,6 @@
 {!! Form::open(${1}) !!}
 ]]></content>
     <tabTrigger>formopen</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade, text.html</scope>
     <description>{!! Form::open() !!}</description>
 </snippet>

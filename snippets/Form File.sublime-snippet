@@ -3,6 +3,6 @@
 {!! Form::file(${1:\$name}, [${2}]) !!}
 ]]></content>
     <tabTrigger>formfile</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade, text.html</scope>
     <description>{!! Form::file() !!}</description>
 </snippet>

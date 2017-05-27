@@ -3,6 +3,6 @@
 {!! Form::selectRange(${1:\$name}, ${2:\$min}, ${3:\$max}), [${4}] !!}
 ]]></content>
     <tabTrigger>formselectrange</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade, text.html</scope>
     <description>{!! Form::selectRange() !!}</description>
 </snippet>

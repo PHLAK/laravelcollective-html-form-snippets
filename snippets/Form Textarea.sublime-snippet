@@ -3,6 +3,6 @@
 {!! Form::textarea(${1:\$name}, ${2:\$value}, [${3}]) !!}
 ]]></content>
     <tabTrigger>formtextarea</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade, text.html</scope>
     <description>{!! From::textarea() !!}</description>
 </snippet>

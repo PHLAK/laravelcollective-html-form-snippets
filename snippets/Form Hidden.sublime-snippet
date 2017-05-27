@@ -3,6 +3,6 @@
 {!! Form::hidden(${1:\$name}, ${2:\$value}, [${3}]) !!}
 ]]></content>
     <tabTrigger>formhidden</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade, text.html</scope>
     <description>{!! Form::hidden() !!}</description>
 </snippet>
