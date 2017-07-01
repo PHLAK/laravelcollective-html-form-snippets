@@ -43,7 +43,7 @@ To use these snippets, type the trigger text followed by the `Tab` key.
 | `formcheckbox`    | `{!! Form::checkbox($name, $value, $checked, []) !!}`         |
 | `formradio`       | `{!! Form::radio($name, $value, $checked, []) !!}`            |
 | `formnumber`      | `{!! Form::number($name, $value, []) !!}`                     |
-| `formdate`        | `{!! Form::date($name, \Carbon\Carbon\::now(), []) !!}`       |
+| `formdate`        | `{!! Form::date($name, \Carbon\Carbon::now(), []) !!}`       |
 | `formselect`      | `{!! Form::select($name, $optionsArray, $defaultKey, []) !!}` |
 | `formselectrange` | `{!! Form::selectRange($name, $min, $max), [] !!}`            |
 | `formselectmonth` | `{!! Form::selectMonth($name, []) !!}`                        |
