@@ -1,5 +1,5 @@
-LaravelCollective HTML Form Snippets
-====================================
+LaravelCollective HTML Form Snippets for Sublime Text
+=====================================================
 
 Sublime Text 3 snippets for [LaravelCollective/html](https://github.com/LaravelCollective/html)
 form elements.
